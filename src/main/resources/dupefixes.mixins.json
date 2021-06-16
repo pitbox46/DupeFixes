@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "github.pitbox46.dupefixes.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "dupefixes.refmap.json",
+  "mixins": [
+    "FireworkEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
